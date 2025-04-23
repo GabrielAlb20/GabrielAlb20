@@ -1,17 +1,17 @@
-### Olá! Eu sou o Gabriel Gomes 🖖🏼
+### Hello! I'm Gabriel Gomes 🖖🏼
 
 
 
 ![GabrielAlbqr20 GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielAlbqr20&show_icons=true&theme=dark)
 
 
-🎓 Tenho 20 anos e atualmente curso **Sistemas de Informação**.  
-💻 Apaixonado por tecnologia, desenvolvimento web e soluções inteligentes.  
-🚀 Sempre em busca de aprender mais e me aperfeiçoar como desenvolvedor!
+🎓 I'm 20 years old and currently studying Information Systems.
+💻 Passionate about technology, web development, and smart solutions.
+🚀 Always looking to learn more and improve myself as a developer!
 
-> ✨ Veja todos os repositórios [aqui](https://github.com/GabrielAlbqr20?tab=repositories)
+> ✨ See all repositories [here](https://github.com/GabrielAlb20?tab=repositories)
 
-## 🥷 Linguagens e Tecnologias:
+## 🥷 Languages ​​and Technologies:
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -20,11 +20,11 @@
 </div><br/>
 
 ###
-- "Não se preocupe em falhar. Preocupe-se em não tentar." – Bill Gates
-- "O melhor jeito de prever o futuro é inventá-lo." – Alan Kay
-- "Eu não sou um gênio, mas sou curioso, É isso que faz a diferença". - Albert Einstein
+- "Don't worry about failing. Worry about not trying." – Bill Gates
+- "The best way to predict the future is to invent it." – Alan Kay
+- "I'm not a genius, but I'm curious. That's what makes the difference." - Albert Einstein
 
-## 📫 Vamos nos conectar?
+## 📫 Let's connect?
 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gabriel.albqdev@outlook.com)
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
