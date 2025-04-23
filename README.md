@@ -1,6 +1,6 @@
 <h1 align="center">Gabriel Gomes de Albuquerque Silva 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&lines=evolving+ +developer </>👨🏻‍💻❤️;Passionate+about+technology! 🌐" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&center=true&lines=evolving+developer+%F0%9F%94%A9%3BPassionate+about+technology!+%F0%9F%8C%90" />
 </p>
 
 <p align="center">
