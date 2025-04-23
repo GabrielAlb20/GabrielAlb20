@@ -5,9 +5,9 @@
 ![GabrielAlbqr20 GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielAlbqr20&show_icons=true&theme=dark)
 
 
-🎓 I'm 20 years old and currently studying Information Systems.
-💻 Passionate about technology, web development, and smart solutions.
-🚀 Always looking to learn more and improve myself as a developer!
+###🎓 I'm 20 years old and currently studying Information Systems.
+###💻 Passionate about technology, web development, and smart solutions.
+###🚀 Always looking to learn more and improve myself as a developer!
 
 > ✨ See all repositories [here](https://github.com/GabrielAlb20?tab=repositories)
 
