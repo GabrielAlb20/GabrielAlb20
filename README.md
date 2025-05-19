@@ -15,7 +15,6 @@
 🔧 Building apps in **Flutter**, bots in **Python** and exploring the world of **Python**, **Flask** and **Django** <br>
 🌐 Creating projects on GitHub to study and share <br>
 🎧🟢ᯤ + 💻</> + ☕︎ match too much :) <br>
-🙏 Christian, hard-working and always seeking evolution 🙌
 
 ---
 
