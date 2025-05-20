@@ -12,7 +12,7 @@
 ### 💡 About me
 
 🎓 IT student passionate about learning <br>
-🔧 Building apps in **Flutter**, bots in **Python** and exploring the world of **Python**, **Flask** and **Django** <br>
+🔧 Building apps in **Flutter**, bots in **Python** and exploring the world of **Python**, **Django** <br>
 🌐 Creating projects on GitHub to study and share <br>
 🎧🟢ᯤ + 💻</> + ☕︎ match too much :) <br>
 
