@@ -18,8 +18,8 @@ Tenho experiência com **desenvolvimento mobile** usando Flutter, **sistemas bac
 
 ##  Estatísticas do GitHub
 
-![Gabriel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabriel-albqr&show_icons=true&theme=github_dark&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-albqr&layout=compact&theme=github_dark)
+![Gabriel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabrielAlb20&show_icons=true&theme=github_dark&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielAlb20&layout=compact&theme=github_dark)
 
 ---
 
